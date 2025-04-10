@@ -5,7 +5,7 @@
 ## Instalación
 
 ```bash
-git clone https://github.com/tuusuario/hyprdots-fusion.git
+git clone https://github.com/gustavomuller70/hyprdots-fusion.git
 cd hyprdots-fusion
 chmod +x install.sh
 ./install.sh
